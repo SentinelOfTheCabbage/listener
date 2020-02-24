@@ -1,0 +1,192 @@
+[
+    {
+        "key": "scripka",
+        "content_len": 5,
+        "content":
+            [
+                {
+                    "tact_len": 3,
+                    "points":
+                        [
+                            [
+                                {
+                                    "svg_key": "1/4",
+                                    "y_pos" : 3
+                                },
+                                {
+                                    "svg_key": "1/4",
+                                    "y_pos" : 2
+                                }
+                            ],
+                            [
+                                {
+                                    "svg_key": "1/4",
+                                    "y_pos" : 3
+                                }
+                            ],
+                            [
+                                {
+                                    "svg_key": "1/4",
+                                    "y_pos" : 4
+                                }
+                            ]
+                        ]
+                },
+                {
+                    "tact_len": 2,
+                    "points":
+                        [
+                            [
+                                {
+                                    "svg_key": "1/4",
+                                    "y_pos" : 3
+                                },
+                                {
+                                    "svg_key": "1/4",
+                                    "y_pos" : 2
+                                }
+                            ],
+                            [
+                                {
+                                    "svg_key": "1/2",
+                                    "y_pos" : 4
+                                }
+                            ]
+                        ]
+                },
+                {
+                    "tact_len": 2,
+                    "points":
+                        [
+                            [
+                                {
+                                    "svg_key": "1/2",
+                                    "y_pos" : 4
+                                }
+                            ],
+                            [
+                                {
+                                    "svg_key": "1/4",
+                                    "y_pos" : 3
+                                }
+                            ]
+                        ]
+                },
+                {
+                    "tact_len": 3,
+                    "points":
+                        [
+                            [
+                                {
+                                    "svg_key": "1/4",
+                                    "y_pos" : 3
+                                },
+                                {
+                                    "svg_key": "1/4",
+                                    "y_pos" : 2
+                                }
+                            ],
+                            [
+                                {
+                                    "svg_key": "1/4",
+                                    "y_pos" : 3
+                                }
+                            ],
+                            [
+                                {
+                                    "svg_key": "1/4",
+                                    "y_pos" : 3
+                                }
+                            ]
+                        ]
+                }
+            ]
+    },
+    {
+        "key": "bas",
+        "content_len": 4,
+        "content":
+            [
+                {
+                    "tact_len": 2,
+                    "points":
+                        [
+                            [
+                                {
+                                    "svg_key": "1/2",
+                                    "y_pos" : 2
+                                }
+                            ],
+                            [
+                                {
+                                    "svg_key": "1/4",
+                                    "y_pos" : 4
+                                }
+                            ]
+                        ]
+                },
+                {
+                    "tact_len": 2,
+                    "points":
+                        [
+                            [
+                                {
+                                    "svg_key": "1/4",
+                                    "y_pos" : 3
+                                }
+                            ],
+                            [
+                                {
+                                    "svg_key": "1/2",
+                                    "y_pos" : 4
+                                }
+                            ]
+                        ]
+                },
+                {
+                    "tact_len": 2,
+                    "points":
+                        [
+                            [
+                                {
+                                    "svg_key": "1/4",
+                                    "y_pos" : 3
+                                },
+                                {
+                                    "svg_key": "1/4",
+                                    "y_pos" : 2
+                                }
+                            ],
+                            [
+                                {
+                                    "svg_key": "1/2",
+                                    "y_pos" : 3
+                                }
+                            ]
+                        ]
+                },
+                {
+                    "tact_len": 2,
+                    "points":
+                        [
+                            [
+                                {
+                                    "svg_key": "1/2",
+                                    "y_pos" : 3
+                                }
+                            ],
+                            [
+                                {
+                                    "svg_key": "1/4",
+                                    "y_pos" : 3
+                                },
+                                {
+                                    "svg_key": "1/4",
+                                    "y_pos" : 2
+                                }
+                            ]
+                        ]
+                }
+            ]
+    }
+]
